@@ -1,2 +1,2 @@
 # test comment
-print 'hello world from branch'
+print 'hello world from master2. Haha!!'
